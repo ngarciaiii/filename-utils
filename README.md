@@ -7,9 +7,9 @@ lowercase and remove single quotes/spaces from filenames in a directory
 # lowercase_files.sh
 lowercasing filenames in a directory
 
-# rm_quotes.sh
-removing single/double quotes from filenames in a directory
+# rm_quotes_spaces.sh
+removing single quotes and spaces from filenames in a directory
 
 # example below
 
-![lc_rm_quotes](https://github.com/user-attachments/assets/0005a310-fe95-4c48-8d5e-8c73ff1b7fee)
+![lc_rm_quotes](https://github.com/user-attachments/assets/5a73251c-1fb7-49a7-9be8-6a9202fc9acd)
