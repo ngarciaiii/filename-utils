@@ -1,5 +1,5 @@
 # filename-utils
-collection of bash scripts for cleaning and formatting filenames: removing quotes, spaces, and lowercasing and or both
+collection of bash scripts for cleaning and formatting filenames: removing quotes, spaces, and lowercasing or all
 
 # file_cleaner.sh
 lowercase and remove single quotes/spaces from filenames in a directory
