@@ -1,8 +1,8 @@
 # filename-utils
 collection of bash scripts for cleaning and formatting filenames: removing quotes, lowercasing and or both
 
-# lc_rm_quotes.sh
-does both lowercasing and removing single/double quotes from filenames in a directory
+# file_cleaner.sh
+lowercase and remove single quotes/spaces from filenames in a directory
 
 # lc_rnm.sh
 lowercasing filenames in a directory
